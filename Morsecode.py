@@ -1,4 +1,4 @@
-"""This program convert text to morse code/morse code to text and accorindg to user choice it will display converted input."""
+"""This program convert text to morse code/morse code to text and accorindg to user's choice it will display converted input."""
 
 def main():
     
